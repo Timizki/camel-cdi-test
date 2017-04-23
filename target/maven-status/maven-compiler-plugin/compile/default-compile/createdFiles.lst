@@ -1,0 +1,10 @@
+io/vksn/camel/test/service/RestResource.class
+io/vksn/camel/test/service/TestApplication.class
+io/vksn/camel/test/model/MessageWrapper.class
+io/vksn/camel/test/model/Message.class
+io/vksn/camel/test/MessageHandler.class
+io/vksn/camel/test/IncomingRouteBuilder$1.class
+io/vksn/camel/test/config/Config.class
+io/vksn/camel/test/IncomingRouteBuilder.class
+io/vksn/camel/test/IncomingRouteBuilder$2.class
+io/vksn/camel/test/ejb/InputBean.class
