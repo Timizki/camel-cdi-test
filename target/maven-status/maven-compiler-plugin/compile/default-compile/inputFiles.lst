@@ -1,8 +1,0 @@
-/home/timii/test/camel-test/src/main/java/io/vksn/camel/test/config/Config.java
-/home/timii/test/camel-test/src/main/java/io/vksn/camel/test/ejb/InputBean.java
-/home/timii/test/camel-test/src/main/java/io/vksn/camel/test/MessageHandler.java
-/home/timii/test/camel-test/src/main/java/io/vksn/camel/test/IncomingRouteBuilder.java
-/home/timii/test/camel-test/src/main/java/io/vksn/camel/test/model/Message.java
-/home/timii/test/camel-test/src/main/java/io/vksn/camel/test/model/MessageWrapper.java
-/home/timii/test/camel-test/src/main/java/io/vksn/camel/test/service/RestResource.java
-/home/timii/test/camel-test/src/main/java/io/vksn/camel/test/service/TestApplication.java
